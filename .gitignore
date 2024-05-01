@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+xcuserdata/
+
+# Swift Playground specific
+*.playground
+
+# Compiled Swift source code
+*.swiftmodule
+*.swiftdoc
+*.swiftinterface
+
+# Playground live view caches
+.playgroundliveview/
+.playgroundbook/
+
+# Miscellaneous
+build/
+DerivedData/
